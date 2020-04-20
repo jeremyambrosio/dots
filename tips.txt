@@ -1,0 +1,12 @@
+
+#initial startup links
+#https://github.com/addy-dclxvi/i3-starterpack/blob/master.config/i3status/config
+#- i3 starterpark
+#https://averagelinuxuser.com/10-things-to-do-after-installing-manjaro/ 
+#- 10 things to do after installing manjaro
+
+#setting up ssh key (lookup on github) - as next step!
+
+#set time to sync with Windows:
+#timedatectl set-local-rtc 1 --adjust-system-clock
+
